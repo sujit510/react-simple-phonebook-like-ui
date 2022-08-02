@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.initial,
+.items {
+  padding-left: 10px;
+}
+
+.initial {
+  background-color: lightgrey;
+  font-weight: bold;
+}
